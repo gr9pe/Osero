@@ -11,7 +11,7 @@ public class game {
 	static String black = "●";
 	static String wall = "□";
 	static String blank = "・";
-	static String turn;//trueで黒
+	static String turn;
 
 	public static void main(String[] args) {
 		
